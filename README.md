@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cjahagir
+- 👀 I’m interested in: Web3, Test automation, Crypto
+- 🌱 I’m currently learning: React Native
+- 📫 How to reach me: Chinmay1999j@gmail.com
