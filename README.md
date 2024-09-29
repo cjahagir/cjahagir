@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @cjahagir
-- 👀 I’m interested in: Web3, Test automation, Crypto
-- 🌱 I’m currently learning: React Native
-- 📫 How to reach me: Chinmay1999j@gmail.com
+Transforming ideas into scalable, AI-driven solutions as a seasoned Senior Node.js Developer with 3+ years of experience. Expertise in harnessing the power of GenAI, cloud technologies, and modern JavaScript frameworks to craft innovative applications. Proven ability to boost API performance, enhance security, and foster collaboration. Passionate about unlocking the potential of GenAI to revolutionize software development, automate processes, and drive business growth. Let's connect and shape the future of tech together!
